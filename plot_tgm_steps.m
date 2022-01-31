@@ -14,7 +14,7 @@ t2=t2*1e9;
 Rt=ifft(Rf,N,'symmetric');
 
 subplot(2,2,1)
-plot(tswp,(Rt)/abs(max(Rt))); grid on
+plot(tswp,(Rt)/max(abs(Rt))); grid on
 axis([0 2*t2 -1 1])
 xlabel('Time [ns]')
 ylabel('|h(t)|/max(|h(t)|)')

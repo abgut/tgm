@@ -1,6 +1,6 @@
 # tgm - Time-gating method with automatic calibration
 
-The repository contains source codes, antenna designs, as well as EM simulation data and measurements (performed in anechoic chamber and in non-anechoic environment) prepared for the research paper entitled: 
+The repository contains source codes (MATLAB 2013b), antenna designs, as well as EM simulation data and measurements (performed in anechoic chamber and in non-anechoic environment) prepared for the research paper entitled: 
 
 _Accurate Non-Anechoic Radiation Pattern Measurements of Small Antennas Using Time-Gating Method With Automatic Calibration_
 

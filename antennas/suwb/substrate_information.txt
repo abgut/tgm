@@ -1,4 +1,4 @@
 Rogers RO4003
 epsilon_r: 3.38
 thickness: 0.81 mm
-metallization: 0.0175
+metallization: 0.0175 mm

@@ -1,9 +1,8 @@
-# tgm
-Time-gating method with automatic calibration
+# tgm - Time-gating method with automatic calibration
 
 The repository contains source codes, antenna designs, as well as EM simulation data and measurements (perfomred in anechoic chamber and in non-anechoic environment) prepared for the research paper entitled: 
 
-# _Accurate Non-Anechoic Radiation Pattern Measurements of Small Antennas Using Time-Gating Method With Automatic Calibration_
+_Accurate Non-Anechoic Radiation Pattern Measurements of Small Antennas Using Time-Gating Method With Automatic Calibration_
 
 Three examples are considered:
 1. Calibration of a Vivaldi antenna against EM simulation results at two selected frequencies followed by re-use of the obtained calibration data for correction of the non-anechoic measurements at different frequencies. The obtained resuls are validated against measurements from the anechoic chamber.

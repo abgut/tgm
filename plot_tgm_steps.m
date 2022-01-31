@@ -31,13 +31,13 @@ subplot(2,2,3)
 plot(tswp,RtHann); hold on
 plot(tswp,tHannRange,'r');
 maxStp=max(abs(RtHann));
-plot([-t2 -t2],[-maxStp maxStp],'g')
+plot([t1 t1],[-maxStp maxStp],'k')
 plot([t2 t2],[-maxStp maxStp],'g');
 plot(tswp,RtHann2,'r'); hold off; grid on
 axis([t1/2 2*t2 -max(abs(RtHann)) max(abs(RtHann))])
 xlabel('Time [ns]')
-ylabel('|h(t)|')
-legend('Original','Windowed')
+ylabel('h(t)')
+legend('Original','Windowed','t1','t2')
 
 subplot(2,2,4)
 plot(wswp,20*log10(abs(Rf))); hold on

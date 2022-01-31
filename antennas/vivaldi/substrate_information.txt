@@ -1,0 +1,4 @@
+Rogers RO4360G2
+epsilon_r: 6.15
+thickness: 0.81 mm
+metallization: 0.035
